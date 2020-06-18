@@ -1,0 +1,11 @@
+commit d0e57d86b92cc2f828cde589936acc4722b8dc3a
+Author: Emmett Lalish <elalish@google.com>
+Date:   Wed Jun 17 17:45:39 2020 -0700
+
+    Remove magic leap (#1294)
+    
+    * remove magic-leap code
+    
+    * removed references to magic-leap
+    
+    * updated deps
